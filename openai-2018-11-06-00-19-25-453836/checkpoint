@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tmp/openai-2018-11-06-00-19-25-453836/humanoid_policy"
+all_model_checkpoint_paths: "/tmp/openai-2018-11-06-00-19-25-453836/humanoid_policy"
